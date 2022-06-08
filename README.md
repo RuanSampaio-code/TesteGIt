@@ -103,7 +103,7 @@ Listar repositório cadastrados:
 
 - Git remote -v
 
-Empurrando ára repositorio remoto:
+Empurrando para repositorio remoto:
 
 - git push origin master
 
